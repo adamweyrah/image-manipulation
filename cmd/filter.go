@@ -6,8 +6,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/adamweyrah/images/internal/processing"
-	"github.com/adamweyrah/images/pkg"
+	"github.com/adamweyrah/image-manipulation/internal/processing"
+	"github.com/adamweyrah/image-manipulation/pkg"
 	"github.com/spf13/cobra"
 )
 
