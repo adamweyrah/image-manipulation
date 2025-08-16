@@ -1,4 +1,4 @@
-module github.com/adamweyrah/images
+module github.com/adamweyrah/image-manipulation
 
 go 1.24.4
 
